@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LukaKoridze13/interactive-rating)
-- Live Site URL: [Add live site URL here](https://interactiverating-lk.netlify.app/)
+- Solution URL: [Link](https://github.com/LukaKoridze13/interactive-rating)
+- Live Site URL: [Link](https://interactiverating-lk.netlify.app/)
 
 ## My process
 
