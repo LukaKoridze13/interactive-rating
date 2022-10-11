@@ -1,0 +1,15 @@
+.text {
+    font-family: 'Overpass';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+
+    /* Light Grey */
+
+    color: #969FAD;
+    width: 87.2%;
+    margin-top: 7px;
+}

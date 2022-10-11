@@ -1,0 +1,20 @@
+.selected {
+    padding: 4px 19px;
+    background: #262E38;
+    border-radius: 22.5px;
+
+    font-family: 'Overpass';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-align: center;
+
+    /* Orange */
+
+    color: #FC7614;
+
+    margin-top: 36px;
+}

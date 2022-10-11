@@ -1,0 +1,11 @@
+.card {
+    width: 87.2%;
+    max-width: 412px;
+    border-radius: 30px;
+    background: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
+    padding: 32px 0px 32px 32px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}

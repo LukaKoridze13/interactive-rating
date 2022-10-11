@@ -1,0 +1,9 @@
+@media (max-width: 480px) {
+    .circle {
+        width: 42px;
+        height: 42px;
+    }
+    .important{
+        font-size: 24px;
+    }
+}

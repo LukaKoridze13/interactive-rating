@@ -1,0 +1,21 @@
+.submit{
+    width: 87.2%;
+    height: 45px;
+    background: #FC7614;
+    border-radius: 22.5px;
+
+    font-family: 'Overpass';
+    font-weight: 700;
+    font-size: 15px;
+    color: #FFFFFF;
+
+    border: none;
+    margin-top: 32px ;
+
+    cursor: pointer;
+}
+
+button:hover{
+    background: #FFFFFF;
+    color: #FC7614;
+}

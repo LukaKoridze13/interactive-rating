@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+
+.important {
+    /* Heading (Large) */
+
+    font-family: 'Overpass';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 35px;
+
+    /* Pure White */
+
+    color: #FFFFFF;
+
+    margin-top: 30px;
+}
